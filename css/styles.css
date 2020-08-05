@@ -1,0 +1,15 @@
+.headings h1{
+  color: aqua;
+  font-weight: bolder;
+  font-family: sans-serif;
+  font-size: medium;
+}
+.dates{
+  font-style: italic;
+}
+
+.subhead{
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: smaller;
+}
